@@ -50,7 +50,7 @@
 			aux.posicao = null;
 			pecas[pos.linha, pos.coluna] = null;
 			return aux;
-		}
+		} 
 
 		public bool posicaovalida(Posicao pos)
 		{
