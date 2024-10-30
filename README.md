@@ -9,5 +9,5 @@ Itens abordados no projeto:<br>
 - Tipos de jogadas; <br>
 - Contagem de turnos; <br>
 - Retiradas das peças do tabuleiro; <br>
-- Cor das peças;
+- Cor das peças;<br>
 - Utilização de coluna e matriz
